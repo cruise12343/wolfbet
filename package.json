@@ -16,7 +16,7 @@
 
 "dependencies": {
 
-"isomorphic-fetch": "11.1.0",
+"isomorphic-fetch": "3.0.0",
 
 "request": "2.81.0"
 
