@@ -1,0 +1,28 @@
+{
+
+"name": "Example",
+
+"description": "Example",
+
+"version": "0.0.0",
+
+"main": "h1.js",
+
+"scripts": {
+
+"start": "node h1.js"
+
+},
+
+"dependencies": {
+
+"isomorphic-fetch": "11.1.0",
+
+"request": "2.81.0"
+
+}
+
+}
+
+
+
