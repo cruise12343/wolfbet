@@ -20,7 +20,7 @@
 
 function dobet(){
 fetch(i1,l1).then(response=>{return response.text()}) 			 .then(e=>{  
-console.log(e);
+//console.log(e);
 //console.log(b1);
 //console.log(l1);
 
